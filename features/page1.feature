@@ -9,6 +9,6 @@ Scenario Outline: gmail login
 	
 	Examples: 
 		|mailid			       |
-		|srinuk247hh@gmail.com |
+		|abc@gmail.com |
 		
 		
